@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\proyecto-alquiler-madera"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\curso_javascript"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\paypal-test"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\paypal_FIN"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\tienda-online"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\freelancer_fin"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\freelancer_inicio"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\freelancer_inicio\\freelancer_inicio\\portafolio-freelancer"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\freelancer_fin\\freelancer_fin"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\paypal_FIN\\paypal-test"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\FrontEndStore_inicio\\FrontEndStore_inicio"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\FrontEndStore_fin\\FrontEndStore_fin"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\startbootstrap-sb-admin-gh-pages"
+		},
+		{
+			"path": "..\\..\\..\\practicas-bootstrap"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\punto-de-venta-basico-12-08-2021"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\youtube-react"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "curso-git-pildorasinformatica"
+	}
+}
